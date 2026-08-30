@@ -16,3 +16,6 @@ This repository documents my progression from Python fundamentals to working wit
 - Data visualization
 - Basic statistical analysis
 - Business-focused data analysis
+# Repository Structure
+# Goal 
+The goal of this repository is to build confidence using Python as an analytical tool and to develop the ability to transform raw data into meaningful insights.
